@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1d7d3fce8336f2108b2bf065eeaad32b" label="Custom table 1" max_length="40" name="x_1386860_github_0_custom_table_1" type="collection">
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
