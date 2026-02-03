@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>KH6RNAO0aNXjZy052Ey5zJZS399jOA5WmaXs7+7o1OI=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1386860_github_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-02 10:10:17</sys_created_on>
+        <sys_id>374db63d83fe32108b2bf065eeaad399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1386860_github_0.user</sys_name>
+        <sys_package display_value="Github app 1" source="x_1386860_github_0">2f4db63d83fe32108b2bf065eeaad370</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github app 1">2f4db63d83fe32108b2bf065eeaad370</sys_scope>
+        <sys_update_name>sys_user_role_374db63d83fe32108b2bf065eeaad399</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-02 10:10:17</sys_updated_on>
+    </sys_user_role>
+</record_update>
